@@ -1,3 +1,3 @@
 # sign_language_recognition
 
-in progress
+full code ready - available here soon
